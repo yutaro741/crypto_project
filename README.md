@@ -40,6 +40,7 @@ Dogecoin (DOGE) is a peer-to-peer, open-source cryptocurrency. It is considered 
 ![](https://github.com/yutaro741/unit-1/blob/main/picture/0EEC72C6-BEB5-4EDC-8AC9-2C80B4EB616D.jpg)
 ![](https://github.com/yutaro741/unit-1/blob/main/picture/5393C833-5086-4A36-9275-FD40D89DCC14.jpg)
 ![](https://github.com/yutaro741/unit-1/blob/main/picture/C2E4FB0A-C8B6-4B04-97F1-80A12C03AE10.jpg)
+![](https://github.com/yutaro741/unit-1/blob/main/picture/F8D340F0-B9D0-4B6E-8B46-9EE3ABF1D0EE.jpg)
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
