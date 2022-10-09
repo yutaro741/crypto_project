@@ -28,7 +28,7 @@ Dogecoin (DOGE) is a peer-to-peer, open-source cryptocurrency. It is considered 
 2. The electronic ledger display the basic description of the cyrptocurrency selected.
 3. The electronic ledger allows to enter, withdraw and record transactions.
 4. The electronic ledger allows to see how expence in dollars and yen.
-5. The electronic ledger allows to plot grapth of income and expence.
+5. The electronic ledger allows to plot into the table of income and expence.
 6. The electronic ledget allow to show mean, max, min, median of the income, outcome and ±of it.
 
 # Criteria B: Design
