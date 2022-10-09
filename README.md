@@ -1,7 +1,7 @@
-# Crypto Wallet
+# Dogecoin simulation(cripto wallet)
 
-![](22ROOSE-master768.gif)  
-<sub>Illustration for Glenn Harvey</sub>
+![](https://github.com/yutaro741/unit-1/blob/main/picture/1_Ryci2os9ss3nIMMlmBTmOw.jpg)
+<sub>from "https://blog.cryptostars.is/10-facts-about-dogecoin-349885165601?gi=85d56eb62bcc"</sub>
 
 # Criteria A: Planning
 
@@ -37,12 +37,20 @@ Dogecoin (DOGE) is a peer-to-peer, open-source cryptocurrency. It is considered 
 ![](https://github.com/yutaro741/unit-1/blob/main/picture/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202022-09-23%2012.05.14.png)
 
 ## Flow Diagrams
-
+![](https://github.com/yutaro741/unit-1/blob/main/picture/0EEC72C6-BEB5-4EDC-8AC9-2C80B4EB616D.jpg)
+![](https://github.com/yutaro741/unit-1/blob/main/picture/5393C833-5086-4A36-9275-FD40D89DCC14.jpg)
+![](https://github.com/yutaro741/unit-1/blob/main/picture/C2E4FB0A-C8B6-4B04-97F1-80A12C03AE10.jpg)
 
 ## Record of Tasks
 | Task No | Planned Action                                                | Planned Outcome                                                                                                 | Time estimate | Target completion date | Criterion |
 |---------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------|------------------------|-----------|
 | 1       | Create system diagram                                         | To have a clear idea of the hardware and software requirements for the proposed solution                        | 10min         | Sep 22                 | B         |
-| 2 | flow diagram login  | created a flow diagram for the login system | 10min  | B |
+| 2 | flow diagram login  | created a flow diagram for the login system | sep25|10min  | B |
 |---|---------------------|---------------------------------------------|--------|---|
-| 3 | code and test login | coded and tested the login system           | 100min | C |
+| 3 | code and test login | coded and tested the login system           | sep25|100min | C |
+|4|flow diagram input| created a flow diagram for the input system| oct1| 10min  | B |
+|5|code and test input system|coded and tested the input information system|oct1|180min|C|
+|6|flow diagram output| create a flow diagram for the data output system|oct3|10min|B|
+|7|code and test output system|coded and tested the output information system|oct3|240min|C|
+|8|Create a disctiption of the program|write how to use things and purpose of the program|oct8|30min|A|
+|9|do the test with my friends|Get a nice tester and get feedback|oct9|60min|B?|
